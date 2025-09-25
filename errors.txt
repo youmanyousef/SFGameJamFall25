@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 360: expected statement.
+    Trippi: "How did things go so wrong..."
+          ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Wed Sep 24 17:34:11 2025
